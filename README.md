@@ -13,3 +13,5 @@ https://caravel-harness.readthedocs.io/en/latest/
 https://www.youtube.com/watch?v=vJqP7ZR0NrI 
 
 https://en.wikipedia.org/wiki/Multi-project_wafer_service
+
+https://developers.google.com/silicon
