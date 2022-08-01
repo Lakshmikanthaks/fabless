@@ -19,3 +19,5 @@ https://developers.google.com/silicon
 https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source-program-to-new-90nm-technology.html
 
 https://www.skywatertechnology.com/cmos/
+
+https://www.youtube.com/watch?v=vJqP7ZR0NrI
