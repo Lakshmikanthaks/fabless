@@ -21,3 +21,13 @@ https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source
 https://www.skywatertechnology.com/cmos/
 
 https://www.youtube.com/watch?v=vJqP7ZR0NrI
+
+https://caravel-harness.readthedocs.io/en/latest/ 
+
+https://github.com/efabless/caravel
+
+https://en.wikipedia.org/wiki/Multi-project_wafer_service
+
+https://github.com/google/skywater-pdk
+
+https://developers.google.com/silicon
