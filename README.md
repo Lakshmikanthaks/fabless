@@ -31,3 +31,9 @@ https://en.wikipedia.org/wiki/Multi-project_wafer_service
 https://github.com/google/skywater-pdk
 
 https://developers.google.com/silicon
+
+
+Additional Resource 
+
+https://next-gen.materialsproject.org/ 
+
